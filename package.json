@@ -1,0 +1,31 @@
+{
+  "name": "create-react-tailwind-app",
+  "version": "1.0.0",
+  "description": "CLI tool to create React 19 + Tailwind CSS v4 boilerplate project with Vite",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "create-react-tailwind-app": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "tailwind",
+    "vite",
+    "boilerplate",
+    "scaffold",
+    "template",
+    "generator"
+  ],
+  "author": "Kuldeep Solanki <kuldeepsolanki1854@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "commander": "^11.1.0",
+    "fs-extra": "^11.2.0",
+    "inquirer": "^9.2.12",
+    "ora": "^8.0.1"
+  }
+}
