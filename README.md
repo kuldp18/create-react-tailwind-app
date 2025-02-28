@@ -17,13 +17,13 @@ A modern CLI tool to quickly scaffold a new React 19 project with Tailwind CSS v
 ### Global Installation (recommended)
 
 ```bash
-npm install -g create-react-tailwind-app
+npm install -g @ksol8/create-react-tailwind-app
 ```
 
 ### Using npx (no installation required)
 
 ```bash
-npx create-react-tailwind-app my-app
+npx @ksol8/create-react-tailwind-app my-app
 ```
 
 ## Usage
@@ -52,11 +52,11 @@ create-react-tailwind-app my-app -y
 
 ## Options
 
-| Option | Description |
-|--------|-------------|
-| `[project-name]` | Name of your project (optional) |
-| `-y, --yes` | Skip all prompts and use defaults |
-| `-v, --version` | Output the version number |
+| Option           | Description                       |
+| ---------------- | --------------------------------- |
+| `[project-name]` | Name of your project (optional)   |
+| `-y, --yes`      | Skip all prompts and use defaults |
+| `-v, --version`  | Output the version number         |
 
 ## Project Structure
 
