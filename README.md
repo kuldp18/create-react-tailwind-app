@@ -14,16 +14,8 @@ A modern CLI tool to quickly scaffold a new React 19 project with Tailwind CSS v
 
 ## Installation
 
-### Global Installation (recommended)
-
 ```bash
-npm install -g @ksol8/create-react-tailwind-app
-```
-
-### Using npx (no installation required)
-
-```bash
-npx @ksol8/create-react-tailwind-app my-app
+npx @ksol8/create-react-tailwind-app@latest my-app
 ```
 
 ## Usage
