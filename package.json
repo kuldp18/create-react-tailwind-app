@@ -1,6 +1,6 @@
 {
   "name": "@ksol8/create-react-tailwind-app",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "CLI tool to create React 19 + Tailwind CSS v4 boilerplate project with Vite",
   "main": "index.js",
   "type": "module",
